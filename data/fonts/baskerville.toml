@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Baskerville"
+
+# Optional Google font URL
+google_fonts = "family=Libre+Baskerville:ital@0;1"
+
+# Font families
+heading_font = "Libre Baskerville"
+body_font = "Libre Baskerville"
+nav_font = "Libre Baskerville"
+mono_font = "Libre Baskerville"

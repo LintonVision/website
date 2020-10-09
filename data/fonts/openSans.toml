@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Open Sans"
+
+# Optional Google font URL
+google_fonts = "Open+Sans:1,300;ital,wght@0,300" # Using 300 rather than 400 to get thinner font
+# google_fonts = "Open+Sans:1;ital@0"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans"
